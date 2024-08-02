@@ -1,6 +1,6 @@
 name: shortuid
 description: Generate UUIDs or short uuids (32/64 bit Guid), RFC4122 v4-compliant UUIDs 
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/parz3val/dart-shortid
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 # Add regular dependencies here.
 dependencies:
-  uuid: ^3.0.7
+  uuid: ^4.2.1
   # path: ^1.8.0
 
 dev_dependencies:
